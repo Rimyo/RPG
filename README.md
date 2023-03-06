@@ -16,6 +16,7 @@ et du personnage.
 
 Pour exécuter le programme, il faut entrer dans le terminal : "make"
 ensuite pour lancer le jeu, il suffit juste d'entrer "./rpg.exe".
+
 ![image](https://user-images.githubusercontent.com/97539604/223269912-3501868e-f6f7-4049-aeda-c43b07eff674.png)
 ![image](https://user-images.githubusercontent.com/97539604/223275665-6b340033-c640-4f65-b8d0-769e383d6540.png)
 ![image](https://user-images.githubusercontent.com/97539604/223275801-2376f188-efa5-45fd-98d4-98f1be9defe2.png)
